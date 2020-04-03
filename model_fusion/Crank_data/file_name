@@ -1,5 +1,5 @@
 #four single model:
-SVM: Support_vector_radial_basis_classifier
-RF: Random_forest_classification
-WLC: Weighted logistic classifier
-GBT: Gradient_boosted_tree
+#SVM: Support_vector_radial_basis_classifier
+#RF: Random_forest_classification
+#WLC: Weighted logistic classifier
+#GBT: Gradient_boosted_tree
